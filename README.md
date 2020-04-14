@@ -1,6 +1,6 @@
 # Mobirise-Configurable-Bootstrap-Menu
 
-Compatibility
+Compatibility<br>
 This extension works with themes based on Bootstrap 4. It might work on other versions, but no guarantees.
 
 Who can use
