@@ -26,6 +26,10 @@ All notable changes to this project will be documented in this file.
 
 - Various enhancements to look and feel of "main menu collapsed mode" when enabled.
 
+## TEST Version 20200416v2 (2020-APRIL-167)
+
+- Changed hover so menu items that have social icons next to them also hover in same colour seected in the cog. Previously there was a hover conflict with the CSS setting iconfont hover colour (selecting what was chosen in the main menu for all iconfonts in all menus). Faulty part of CSS removed now.
+
 ## TEST Version 20200420v2 (2020-APRIL-14)
 
 - Added box-shadow menu cog optioon.
