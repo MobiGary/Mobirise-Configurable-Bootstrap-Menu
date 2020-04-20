@@ -11,13 +11,12 @@ A Mobirise Bootstrap menu with many configuration settings available from the "g
 - Individual colour and opacity settings for Main, Sub and Hamburger menu background
 - Individual underline colour and thickness for main and sub-menu plus sub-menu % darken on hover
 - Options to enable button and social icons within the menu
-- Set Logo size
-- Set logo size when scrolling down page
-- Allows alignment of main menu when is desktop mode to eitehr lfet, center or right. Menu item spacing slider also provided.
-- Menuher and undrline options.
+- Set Logo size & Set logo size when scrolling down page options
+- Allows alignment of main menu when is desktop mode to eitehr left, center or right. Menu item spacing slider also provided.
+- Menu undrline options.
 - Main Menu and Sub Menu underline options
 - Sub Menu rounded corner optons
-- Box shadow (inner and outer) options
+- Main and Sub Menu Box shadow (inner and outer) options
 
 In summary, you can configure more options on the gear icon than you can with the standard menus. This was a personal training exercise for me to configure gear items and also upload to GitHub.
 
