@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Version 1.0 (2020-APRIL-0)
+## Version 1.0 (2020-APRIL-20)
 
 - After testing, published latest version as v1.0
 
