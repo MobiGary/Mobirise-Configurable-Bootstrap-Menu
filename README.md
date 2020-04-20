@@ -20,6 +20,9 @@ A Mobirise Bootstrap menu with many configuration settings available from the "g
 
 In summary, you can configure more options on the gear icon than you can with the standard menus. This was a personal training exercise for me to configure gear items and also upload to GitHub.
 
+Screeenshot of COG items here:
+https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenu.png
+
 ## <b>Installation and use</b><br>
 This is a zip file containing a Mobirise 4.x bootstrap project. To use the menu, download the zip file, unzip contents to a folder and import into Mobirise as a new project by selecting the "project.mobirise" file for the import process. You can then save the menu from the imported project as a Mobirise "user block" and move between Mobirise bootstrap 4 projects (AMP not supported). 
 
