@@ -26,9 +26,19 @@ All notable changes to this project will be documented in this file.
 
 - Various enhancements to look and feel of "main menu collapsed mode" when enabled.
 
-## TEST Version 20200416v2 (2020-APRIL-167)
+## TEST Version 20200416v2 (2020-APRIL-16)
 
 - Changed hover so menu items that have social icons next to them also hover in same colour seected in the cog. Previously there was a hover conflict with the CSS setting iconfont hover colour (selecting what was chosen in the main menu for all iconfonts in all menus). Faulty part of CSS removed now.
+
+## TEST Version 20200416 (2020-APRIL-16)
+
+- The "Collapsed" cog item is back.
+
+- Some spelling mistakes on the cog have been corrected.
+
+- In desktop mode (not mobile) if you use icons on your menus as well as text, when you hover over a menu link that has both text+icon, the hover color changes to the on-hover "Main Menu Item Hover" color cog item both together (rather than separately as before).
+
+- Removed the cog item to set icon color as this was partly to blame for the issue above (in conjunction with the associated CSS). So now if you wish to set a social icon color (if you use them in the menu) just click on the social icon and set it manually.
 
 ## TEST Version 20200420v2 (2020-APRIL-14)
 
