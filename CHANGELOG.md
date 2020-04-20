@@ -40,10 +40,10 @@ All notable changes to this project will be documented in this file.
 
 - Removed the cog item to set icon color as this was partly to blame for the issue above (in conjunction with the associated CSS). So now if you wish to set a social icon color (if you use them in the menu) just click on the social icon and set it manually.
 
-## TEST Version 20200420v2 (2020-APRIL-14)
+## TEST Version 20200414v2 (2020-APRIL-14)
 
 - Added box-shadow menu cog optioon.
 
-## TEST Version v20200420 (2020-APRIL-14)
+## TEST Version v20200414 (2020-APRIL-14)
 
 - This is the initial release of the MobiGary Mobirise Configurable Menu for Mobirise.
