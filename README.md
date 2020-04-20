@@ -8,7 +8,7 @@ Please note this is a TEST verion only being tested by a few known contributors.
 
 ## <b>Notes</b><br>
 A Mobirise Bootstrap menu with many configuration settings available from the "gear" configuration icon. It includes:
-- Individual colour and opacity settings for main, sub-menu and Hamburger menu background
+- Individual colour and opacity settings for Main, Sub and Hamburger menu background
 - Individual underline colour and thickness for main and sub-menu plus sub-menu % darken on hover
 - Options to enable button and social icons within the menu
 - Set Logo size
@@ -18,7 +18,6 @@ A Mobirise Bootstrap menu with many configuration settings available from the "g
 - Main Menu and Sub Menu underline options
 - Sub Menu rounded corner optons
 - Box shadow (inner and outer) options
-- Opacity settings of Main, Sub and Hamburgere menu
 
 In summary, you can configure more options on the gear icon than you can with the standard menus. This was a personal training exercise for me to configure gear items and also upload to GitHub.
 
