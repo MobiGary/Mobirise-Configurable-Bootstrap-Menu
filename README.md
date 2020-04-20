@@ -4,7 +4,7 @@
 This extension works with Mobirise themes based on Bootstrap 4 (AMP not supported). It might work on other versions, but no guarantees.
 
 ## <b>Who can use</b><br>
-Please note this is a TEST verion only being tested by a few known contributors.
+Feel free to give it a try if you are a Mobirise Bootstrap 4 user.
 
 ## <b>Notes</b><br>
 A Mobirise Bootstrap menu with many configuration settings available from the "gear" configuration icon. It includes:
