@@ -40,6 +40,11 @@ All notable changes to this project will be documented in this file.
 
 - Removed the cog item to set icon color as this was partly to blame for the issue above (in conjunction with the associated CSS). So now if you wish to set a social icon color (if you use them in the menu) just click on the social icon and set it manually.
 
+
+## TEST Version 20200415v2 (2020-APRIL-15)
+
+ - Changes in this version all relate to the hamburger menu. There is now a cog entry to specifically set the Hamburger background color (which i'm calling Level 1) as well as Hamburger Menu Level 2 (or greater), hence L2+ on the cog - background color. Of course if you want L1 and L2 to be the same color so no difference shows on the Hamburger menu, then set them both the same color in the cog. But flexibility is there. HamMenu Opacity setting is still there for the Hamburger Menu and it controls both L1 & L2+ colour settings the same amount (whatever you set on the slider) of opacity for the Hamburger Menu. Move the slider all the way if you want no opacity.
+
 ## TEST Version 20200414v2 (2020-APRIL-14)
 
 - Added box-shadow menu cog optioon.
