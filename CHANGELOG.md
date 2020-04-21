@@ -24,7 +24,7 @@ All notable changes to this project will be documented in this file.
 
 - Changed the step values of some cog items to give greater granular control.
 
-- Various enhancements to look and feel of Main menu "collapsed" mode when enabled.
+- Various enhancements to look and feel of main menu "collapsed" mode when enabled.
 
 ## TEST Version 20200416v2 (2020-APRIL-16)
 
