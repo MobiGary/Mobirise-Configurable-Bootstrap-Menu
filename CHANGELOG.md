@@ -51,6 +51,6 @@ All notable changes to this project will be documented in this file.
 
 ## TEST Version v20200414 (2020-APRIL-14)
 
-- This is the initial release of the MobiGary Mobirise Configurable Menu for Mobirise. Various cog options availab to meke settings quicker to apply and provided flexibility for thos who are not so comfoprtable editing CSS.
+- This is the initial release of the MobiGary Mobirise Configurable Menu for Mobirise. Various cog options availabe to make settings quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS.
 
 
