@@ -1,5 +1,8 @@
 # Mobirise-Configurable-Bootstrap-Menu
 
+## <b>Latest Version</b><br>
+v1.0
+
 ## <b>Compatibility</b><br>
 This extension works with Mobirise themes based on Bootstrap 4 (AMP not supported). It might work on other versions, but no guarantees.
 
