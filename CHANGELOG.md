@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Version 1.0 - MobiGaryMenu-v1.0.zip (2020-APRIL-20)
+## Version 1.0 - MobiGaryMenu-v1.0.zip (2020-APRIL-21)
 
 - After testing and feedback, published latest version as v1.0
 
