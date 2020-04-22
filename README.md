@@ -28,7 +28,7 @@ Screeenshot of "gear" items here:
 https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenu.png
 
 ## <b>Installation and use</b><br>
-This is a zip file containing a Mobirise 4.x bootstrap project. To use the menu, download the zip file, unzip contents to a folder and import into Mobirise as a new project by selecting the "project.mobirise" file for the import process. You can then save the menu from the imported project as a Mobirise "user block" and move between Mobirise bootstrap 4 projects (AMP not supported). 
+This is a zip file containing a small Mobirise 4.x bootstrap project. To use the menu, download the zip file, unzip contents to a folder and import into Mobirise as a new project by selecting the "project.mobirise" file for the import process. You can then save the menu from the imported project as a Mobirise "user block" and move between Mobirise bootstrap 4 projects (AMP not supported). 
 
 Once the block configuaration is accessed via the "gear" (cog) icon, all the configuration options are avaiable (see screenshot in link above).
 
