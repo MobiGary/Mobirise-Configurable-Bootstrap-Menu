@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## Version 1.1 - MobiGaryMenu-v1.1.zip (2020-APRIL-23)
 
-- Added "MainMenu Items Hov Bkg" cog item. If option this is not selected, as with v1.0 no hackground hover color will be applied to the menu. If the new option is selected, an additional option will be displayed "MM Items Hov Bkg Col" allowing you to set the hover background color of main menu items. 
+- Added "MainMenu Items Hov Bkg" cog item. If option this is not selected, as with v1.0 no background hover color will be applied to the menu. If the new option is selected, an additional option will be displayed "MM Items Hov Bkg Col" allowing you to set the hover background color of main menu items. 
 
 ## Version 1.0 - MobiGaryMenu-v1.0.zip (2020-APRIL-21)
 
