@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file.
 
 - Added "MainMenu Hov UL Col" cog item at the request of a Mobirise forum user. Previously in v1.1 the hover color of the main menu items was used also for the underline hover (if selected). This color is now configurable.
 
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.2.jpg
+
 ## Version 1.1 - MobiGaryMenu-v1.1.zip (2020-APRIL-23)
 
 - Added "MainMenu Items Hov Bkg" cog item. If this option is not selected, as with v1.0 no background hover color will be applied to the menu. If the new cog option is selected, an additional option will be displayed "MM Items Hov Bkg Col" allowing you to set the hover background color of main menu items (and hamburger menu).
