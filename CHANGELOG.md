@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file.
 
 - Solved a slight sub-menu hover color change delay which exhibited itself on Chrome browser if you had iconfonts and text on sub-menu items and also configured a different color for hover over the menu text. What would happen is the test would change color first and then there would be a slight delay before the iconfont changed color also. This was due to a transition timing setting in the CSS which has now been modified.
 
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.3.jpg
+
 ## Version 1.2 - MobiGaryMenu-v1.2.zip (2020-APRIL-23)
 
 - Added "MainMenu Hov UL Col" cog item at the request of a Mobirise forum user. Previously in v1.1 the hover color of the main menu items was used also for the underline hover (if selected). This color is now configurable.
