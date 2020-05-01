@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 1.4 - MobiGaryMenu-v1.4.zip (2020-MAY-01)
+
+- Removed small amount of orphan code identified in the <mbr-parameters> section. This orphan code had no ill effects on the operation of the menu in v1.3. This update is purely to tify up the code.
+
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.3.jpg
+
 ## Version 1.3 - MobiGaryMenu-v1.3.zip (2020-APRIL-24)
 
 - Solved a slight sub-menu hover color change delay which exhibited itself on Chrome browser if you had iconfonts and text on sub-menu items and also configured a different color for hover over the menu text. What would happen is the text would change color first and then there would be a slight delay before the iconfont changed color also. This was due to a transition timing setting in the CSS which has now been modified.
