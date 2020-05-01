@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## Version 1.4 - MobiGaryMenu-v1.4.zip (2020-MAY-01)
 
-- Removed small amount of orphan code identified in the <mbr-parameters> section. This orphan code had no ill effects on the operation of the menu in v1.3. This update is purely to tify up the code.
+- Removed small amount of orphan code identified in the mbr-parameters section. This orphan code had no ill effects on the operation of the menu in v1.3. This update is purely to tify up the code.
 
 Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.3.jpg
 
