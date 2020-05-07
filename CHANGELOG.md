@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## Version 1.5 - MobiGaryMenu-v1.5.zip (2020-MAY-07)
 
-- Enhance CSS code to handle formatting of hamburger and collapsed menus on IE11. 
+- Enhanced CSS code to better handle formatting of hamburger and collapsed menus on IE11. 
 - Added a new cog option for "Show Top Line" which allows a message banner line above the menu if enabled. Additionally, a sub option is displayed allowing you to select if you wish the top line to be removed when scrolling down the page if "sticky" menu used. If "Show Top Line" is enabled a choice of "None", "Flash", "Pulse" or "Scroll" options are provided. Color, size and alignment of the top line test is selected in the normal method with Mobirise builder by clicking the text and completing the dropdown presented.
 
 Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.5.jpg
