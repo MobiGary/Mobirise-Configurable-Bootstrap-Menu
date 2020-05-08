@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 1.6 - MobiGaryMenu-v1.6.zip (2020-MAY-08)
+
+- Enhanced CSS code to better support temporary pausing of the scrolling top line message if you ouse hover over it (if configured in the "Top Line Scroll Mouse Hover Pause" gear icon option). This option now supports several browser types including some newer and some older browsers. 
+
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.6.jpg
+
 ## Version 1.5 - MobiGaryMenu-v1.5.zip (2020-MAY-07)
 
 - Enhanced CSS code to better handle formatting of hamburger and collapsed menus on IE11. 
