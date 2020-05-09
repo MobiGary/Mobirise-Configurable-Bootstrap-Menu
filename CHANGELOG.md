@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 1.7 - MobiGaryMenu-v1.7.zip (2020-MAY-09)
+- Following Mobirise Forum feedback, enhanced code to provide more gear icon configuration options for the scrolling top line message.
+- Tided up the gear icon menu plus added some section dividers to separate out the Menu Top, Main and Sub-Menu components on the gear icon.
+
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.7.jpg
+
 ## Version 1.6 - MobiGaryMenu-v1.6.zip (2020-MAY-08)
 
 - Enhanced CSS code to better support temporary pausing of the scrolling top line message if you mouse hover over it (if configured in the "Top Line Scroll Mouse Hover Pause" gear icon option). This option now supports several browser types including some newer and some older browsers. 
