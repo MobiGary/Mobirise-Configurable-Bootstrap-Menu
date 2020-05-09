@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## Version 1.7 - MobiGaryMenu-v1.7.zip (2020-MAY-09)
 - Following Mobirise Forum feedback, enhanced code to provide more gear icon configuration options for the scrolling top line message.
+- Made the minimum thickness of the menu top line smaller so it takes up less space when set to the minimum top and bottom padding settings on the gear icon.
 - Tided up the gear icon menu plus added some section dividers to separate out the Menu Top, Main and Sub-Menu components on the gear icon.
 
 Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.7.jpg
