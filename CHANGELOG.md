@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## Version 1.8 - MobiGaryMenu-v1.8.zip (2020-MAY-10)
-- Following Mobirise Forum feedback, enhanced code to provide additional gear icon configuration options for the top line message. Added "TL BG Gradient Col" gear icon option. If this new option is selected, additional options are displayed allowing either 2, 3 or 4 gradient colors to be selected in either Left-to-Right or Top-to-Botton gradient configuration. If this new "TL BG Gradient Col" option is not selected, the single color top line background color is used.
+- Following Mobirise Forum feedback, enhanced code to provide additional gear icon configuration options for the top line message. Added "TL BG Gradient Col" gear icon option. If this new option is selected, additional options are displayed allowing either 2, 3 or 4 gradient background colors to be selected in either Left-to-Right or Top-to-Botton gradient configuration. If this new "TL BG Gradient Col" option is not selected, the single color top line background color is used.
 
 Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.8.jpg
 
