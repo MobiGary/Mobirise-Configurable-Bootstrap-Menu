@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## Version 1.9 - MobiGaryMenu-v1.9.zip (2020-MAY-11)
-- Following Mobirise Forum feedback, enhanced code to provide an additional gear icon configuration option for the top line message. Added "Show Top Line on HamMenu" gear icon option. This extra choice gives allows the top line message to either show or not shown on the Hamberger Menu. If deselected, the top line message is only displayed when not in Hamburger Menu mode.
+- Following Mobirise Forum feedback, enhanced code to provide an additional gear icon configuration option for the top line message. Added "Show Top Line on HamMenu" gear icon option. This extra choice allows the top line message to either show or not shown on the Hamberger Menu. If deselected, the top line message is only displayed when not in Hamburger Menu mode.
 - Corrected a single character typing mistake in the HTML gerar icon selection HTML code which caused a gear icon option display issue if both "TL BG Gradient Colour Style" PLUS "T-B 4 Col" were both selected.
 
 Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.9.jpg
