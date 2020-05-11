@@ -21,6 +21,7 @@ A Mobirise Bootstrap menu with many configuration settings available from the "g
 - Main Menu and Sub Menu underline options.
 - Sub Menu rounded corner optons.
 - Main and Sub Menu Box shadow (inner and outer) options.
+- A top line message - with various configuration options available.
 
 In summary, you can configure more options on the gear icon than you can with the standard menus. This was a personal training exercise for me to configure gear items and also upload to GitHub.
 
