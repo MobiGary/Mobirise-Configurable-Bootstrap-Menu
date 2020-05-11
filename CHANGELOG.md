@@ -37,7 +37,7 @@ Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configura
 
 - Removed small amount of orphan code identified in the mbr-parameters section. This orphan code had no ill effects on the operation of the menu in v1.3. This v1.4 update is just to tidy up the code.
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.4.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.3.jpg
 
 ## Version 1.3 - MobiGaryMenu-v1.3.zip (2020-APRIL-24)
 
