@@ -18,44 +18,44 @@ Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configura
 - Made the minimum thickness of the menu top line smaller so it takes up less space when set to the minimum top and bottom padding settings on the gear icon.
 - Tided up the gear icon menu plus added some section dividers to separate out the Menu Top, Main and Sub-Menu components on the gear icon.
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.7.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.7.jpg
 
 ## Version 1.6 - MobiGaryMenu-v1.6.zip (2020-MAY-08)
 
 - Enhanced CSS code to better support temporary pausing of the scrolling top line message if you mouse hover over it (if configured in the "Top Line Scroll Mouse Hover Pause" gear icon option). This option now supports several browser types including some newer and some older browsers. 
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.6.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.6.jpg
 
 ## Version 1.5 - MobiGaryMenu-v1.5.zip (2020-MAY-07)
 
 - Enhanced CSS code to better handle formatting of hamburger and collapsed menus on IE11. 
 - Added a new cog option for "Show Top Line" which allows a message banner line above the menu if enabled. Additionally, a sub option is displayed allowing you to select if you wish the top line to be removed when scrolling down the page if "sticky" menu used. If "Show Top Line" is enabled a choice of "None", "Flash", "Pulse" or "Scroll" options are provided. Color, size and alignment of the top line text is selected in the normal method with Mobirise builder by clicking the text and completing the dropdown presented.
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.5.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.5.jpg
 
 ## Version 1.4 - MobiGaryMenu-v1.4.zip (2020-MAY-01)
 
 - Removed small amount of orphan code identified in the mbr-parameters section. This orphan code had no ill effects on the operation of the menu in v1.3. This v1.4 update is just to tidy up the code.
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.3.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.4.jpg
 
 ## Version 1.3 - MobiGaryMenu-v1.3.zip (2020-APRIL-24)
 
 - Solved a slight sub-menu hover color change delay which exhibited itself on Chrome browser if you had iconfonts and text on sub-menu items and also configured a different color for hover over the menu text. What would happen is the text would change color first and then there would be a slight delay before the iconfont changed color also. This was due to a transition timing setting in the CSS which has now been modified.
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.3.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.3.jpg
 
 ## Version 1.2 - MobiGaryMenu-v1.2.zip (2020-APRIL-23)
 
 - Added "MainMenu Hov UL Col" cog item at the request of a Mobirise forum user. Previously in v1.1 the hover color of the main menu items was used also for the underline hover (if selected). This color is now configurable.
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.2.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.2.jpg
 
 ## Version 1.1 - MobiGaryMenu-v1.1.zip (2020-APRIL-23)
 
 - Added "MainMenu Items Hov Bkg" cog item. If this option is not selected, as with v1.0 no background hover color will be applied to the menu. If the new cog option is selected, an additional option will be displayed "MM Items Hov Bkg Col" allowing you to set the hover background color of main menu items (and hamburger menu).
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.1.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.1.jpg
 
 ## Version 1.0 - MobiGaryMenu-v1.0.zip (2020-APRIL-21)
 
