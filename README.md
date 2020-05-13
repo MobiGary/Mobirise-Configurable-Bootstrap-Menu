@@ -32,9 +32,3 @@ https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/Mob
 This is a zip file containing a small Mobirise 4.x bootstrap project (created using the Mobirise 4 theme as the base project). To use the menu, download the zip file, unzip contents to a folder and import into Mobirise as a new project by selecting the "project.mobirise" file for the import process. You can then save the menu from the imported project as a Mobirise "user block" and move between Mobirise bootstrap 4 projects (AMP not supported). 
 
 Once the block configuaration is accessed via the "gear" (cog) icon, all the configuration options are avaiable (see screenshot in link above).
-
-
-
-
-
-
