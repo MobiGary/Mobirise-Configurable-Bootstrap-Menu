@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## Version 2.0 - MobiGaryMenu-v2.0.zip (2020-MAY-13)
 - Following Mobirise Forum feedback, modified CSS to improve menu link text, logo and brand name alignment within the Main Menu area.
-- Modified CSS ine to change padding if no menu logo selected. This moves the "X" (top right) of the hamburger Menu down the screen slightly in this mode as it was slightly too high in this mode previously.
+- Modified CSS to change top padding if no menu logo selected. This moves the "X" (top right) of the Mamburger Menu down the screen slightly in this mode as it was slightly too high in this mode previously.
 - Added "TL Top Border Color", "TL Top Border Thickness", "TL Bottom Border Color" & "TL Bottom Border Thickness" gear menu items to allow a border line to be placed above and below the top line message area if desired. If thickness sliders are set to zero, no border is applied.
 - Modified the "MainMenu Hover Underline Thickness", "MainMenu Underline Thickness" & "SubMenu Underline Thickness" gear icons to allow more precice thickness settings by reducing the slider step setting from 0.5px to 0.25px.
 - Simplified the wording and reordered some items of gear icon settings.
