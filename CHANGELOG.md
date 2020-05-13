@@ -117,4 +117,3 @@ Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configura
 
 - This is the initial release of the MobiGary Mobirise Configurable Menu for Mobirise. Various cog options availabe to make settings quicker to apply and provide flexibility for those Mobirise builder users who are not so comfoprtable editing CSS.
 
-
