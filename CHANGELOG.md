@@ -2,11 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 2.0 - MobiGaryMenu-v2.0.zip (2020-MAY-13)
+- Following Mobirise Forum feedback, modified CSS to improve menu link text, logo and brand name alignment within the Main Menu area.
+- Modified CSS ine to change padding if no menu logo selected. This moves the "X" (top right) of the hamburger Menu down the screen slightly in this mode as it was slightly too high in this mode previously.
+- Added "TL Top Border Color", "TL Top Border Thickness", "TL Bottom Border Color" & "TL Bottom Border Thickness" gear menu items to allow a border line to be placed above and below the top line message area if desired. If thickness sliders are set to zero, no border is applied.
+- Modified the "MainMenu Hover Underline Thickness", "MainMenu Underline Thickness" & "SubMenu Underline Thickness" gear icons to allow more precice thickness settings by reducing the slider step setting from 0.5px to 0.25px.
+- Simplified the wording and reordered some items of gear icon settings.
+
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.0.jpg
+
 ## Version 1.9 - MobiGaryMenu-v1.9.zip (2020-MAY-11)
 - Following Mobirise Forum feedback, enhanced code to provide an additional gear icon configuration option for the top line message. Added "Show Top Line on HamMenu" gear icon option. This extra choice allows the top line message to either show or not show on the Hamburger Menu. If de-selected, the top line message is only displayed when not in Hamburger Menu mode.
 - Corrected a single character typing mistake in the HTML gerar icon selection HTML code which caused a gear icon option display issue if both "TL BG Gradient Colour Style" PLUS "T-B 4 Col" were both selected.
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v1.9.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v1.9.jpg
 
 ## Version 1.8 - MobiGaryMenu-v1.8.zip (2020-MAY-10)
 - Following Mobirise Forum feedback, enhanced code to provide additional gear icon configuration options for the top line message. Added "TL BG Gradient Col" gear icon option. If this new option is selected, additional options are displayed allowing either 2, 3 or 4 gradient background colors to be selected in either Left-to-Right or Top-to-Botton gradient configuration. If this new "TL BG Gradient Col" option is not selected, the single color top line background color is used.
