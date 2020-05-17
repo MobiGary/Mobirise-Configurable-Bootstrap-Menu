@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 2.1 - MobiGaryMenu-v2.1.zip (2020-MAY-17)
+- Added "MM Icons Area Width" gear menu slider to allow control over the size of the icons area if menu icons are enabled. This allows finer control over the placement, wrappig & padding around icons.
+- Added "MM Button Area Width" gear menu slider to allow control over the size of the button area if menu buttons are enabled. This allows finer control over the placement, wrapping & padding around buttons.
+
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.1.jpg
+
 ## Version 2.0 - MobiGaryMenu-v2.0.zip (2020-MAY-13)
 - Following Mobirise Forum feedback, modified CSS to improve menu link text, logo and brand name alignment within the Main Menu area.
 - Modified CSS to change top padding if no menu logo selected. This moves the "X" (top right) of the Mamburger Menu down the screen slightly in this mode as it was slightly too high in this mode previously.
@@ -9,7 +15,7 @@ All notable changes to this project will be documented in this file.
 - Modified the "MainMenu Hover Underline Thickness", "MainMenu Underline Thickness" & "SubMenu Underline Thickness" gear icons to allow more precice thickness settings by reducing the slider step setting from 0.5px to 0.25px.
 - Simplified the wording and reordered some items of gear icon settings.
 
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.0.jpg
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/old-versions/MobiGaryMenuCog-v2.0.jpg
 
 ## Version 1.9 - MobiGaryMenu-v1.9.zip (2020-MAY-11)
 - Following Mobirise Forum feedback, enhanced code to provide an additional gear icon configuration option for the top line message. Added "Show Top Line on HamMenu" gear icon option. This extra choice allows the top line message to either show or not show on the Hamburger Menu. If de-selected, the top line message is only displayed when not in Hamburger Menu mode.
