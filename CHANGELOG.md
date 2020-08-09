@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 2.2 - MobiGaryMenu-v2.2.zip (2020-AUGUST-09)
+- Added "MM Mobile Brand Name Area Width" & "MM NonMobile Brand Name Area Width" gear icon sliders to control the witdth and text wrapping of the Brand Name if "MM Show Brand Name" is selected. This gives more granular control of the Brand Name text formatting in both mobile (<992px) and non mobile display widths (992px or greater).
+
 ## Version 2.1 - MobiGaryMenu-v2.1.zip (2020-MAY-17)
 - Added "MM Icons Area Width" gear menu slider to allow control over the size of the icons area if menu icons are enabled. This allows finer control over the placement, wrappig & padding around icons.
 - Added "MM Button Area Width" gear menu slider to allow control over the size of the button area if menu buttons are enabled. This allows finer control over the placement, wrapping & padding around buttons.
