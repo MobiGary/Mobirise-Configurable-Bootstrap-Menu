@@ -1,7 +1,7 @@
 # Mobirise-Configurable-Bootstrap-Menu
 
 ## <b>Latest Version</b><br>
-v2.2 as detailed in the changelog:
+v2.3 as detailed in the changelog:
 https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/CHANGELOG.md
 
 ## <b>Compatibility</b><br>
