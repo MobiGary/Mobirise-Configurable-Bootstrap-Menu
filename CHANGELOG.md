@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## Version 2.3 - MobiGaryMenu-v2.3.zip (2020-AUGUST-10)
-- Added "MM Show Brand All screen px width" gear icon toggle switch & also "MM Brand Name Dont Show Under px" gear icon slider that appears if "MM Show Brand All screen px width" options not selected. This allows the option of only showing the brand name above a certain configured screen px width. 
+- Added "MM Show Brand All screen px width" gear icon toggle switch & also "MM Brand Name Dont Show Under px" gear icon slider that appears if "MM Show Brand All screen px width" options is de-selected. This allows the option of only showing the brand name above a certain configured screen px width. 
 
 ## Version 2.2 - MobiGaryMenu-v2.2.zip (2020-AUGUST-09)
 - Added "MM Mobile Brand Name Area Width" & "MM NonMobile Brand Name Area Width" gear icon sliders to control the witdth and text wrapping of the Brand Name if "MM Show Brand Name" is selected. This gives more granular control of the Brand Name text formatting in both mobile (<992px) and non mobile display widths (992px or greater).
