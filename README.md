@@ -14,7 +14,7 @@ Feel free to give it a try if you are a Mobirise Bootstrap 4 user.
 A Mobirise Bootstrap menu with many configuration settings available from the "gear" configuration icon. It includes:
 - Individual colour and opacity settings for Main, Sub and Hamburger menu background.
 - Individual underline colour and thickness for main and sub-menu plus sub-menu % darken on hover.
-- Options to enable button and social icons within the menu.
+- Options to enable Buttons, Social icons and Brand Name text within the menu plus controls set the dispaly area width of each.
 - Set Logo size & Set logo size when scrolling down page options.
 - Allows alignment of main menu when is desktop mode to eitehr left, center or right. Menu item spacing slider also provided.
 - Menu undrline options.
