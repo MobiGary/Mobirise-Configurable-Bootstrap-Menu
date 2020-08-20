@@ -2,11 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 2.5 - MobiGaryMenu-v2.5.zip (2020-AUGUST-20)
+- CSS changes to due to changes in new inherited CSS in Mobirise v5 that caused some minor issues. This new version behaves better in terms of Menu Logo dimensions and Menu Brand Name alignement in both Mobirise 4 and Mobirise 5 builder.
+
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.5.jpg
+
 ## Version 2.4 - MobiGaryMenu-v2.4.zip (2020-AUGUST-15)
 - Modified the Gear Icon for setting "Icon Area Width" and "Buttons Area Width" to have a PX setting slider rather than a slider based on a CSS formula.
 - Added more granular options for "Brand Name Area Width" on the gear icon. Individual PX width settings now possible for various different screen widths. This allows for more flexibility in controlling the Brand Name width and text wrapping at various screen width breakpoints.
-
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.4.jpg
 
 ## Version 2.3 - MobiGaryMenu-v2.3.zip (2020-AUGUST-10)
 - Added "MM Show Brand All screen px width" gear icon toggle switch & also "MM Brand Name Dont Show Under px" gear icon slider that appears if "MM Show Brand All screen px width" option is de-selected. This allows the option of only showing the brand name above a certain configured screen px width. 
