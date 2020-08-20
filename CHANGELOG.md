@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## Version 2.5 - MobiGaryMenu-v2.5.zip (2020-AUGUST-20)
-- CSS changes to due to changes in new inherited CSS in Mobirise v5 that caused some minor issues. This new version behaves better in terms of Menu Logo dimensions and Menu Brand Name alignement in both Mobirise 4 and Mobirise 5 builder.
+- CSS changes to due to changes in new inherited CSS in Mobirise v5 that caused some minor issues. This new version behaves better in terms of Menu Logo dimensions and Menu Brand Name alignment in both Mobirise 4 and Mobirise 5 builder.
 
 Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.5.jpg
 
