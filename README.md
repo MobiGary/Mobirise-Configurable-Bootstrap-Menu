@@ -29,7 +29,7 @@ Screeenshot of "gear" items here:
 https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.5.jpg
 
 ## <b>Installation and use</b><br>
-From v2.6 onwards a Mobirise extension 9mbrext) file is provided. To install the extension in the Mobirise Builder follow these steps:
+From v2.6 onwards a Mobirise extension (mbrext) file is provided. To install the extension in the Mobirise Builder follow these steps:
 - Select the "Extensions" option from the left hand main menu
 - Select "import"
 - Browse to the downloaded MobiGaryExtension .mrext file and select "IMPORT ANYWAY" at the unknown source warning
