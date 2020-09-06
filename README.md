@@ -1,7 +1,7 @@
 # Mobirise-Configurable-Bootstrap-Menu
 
 ## <b>Latest Version</b><br>
-v2.5 as detailed in the changelog:
+v2.6 as detailed in the changelog:
 https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/CHANGELOG.md
 
 ## <b>Compatibility</b><br>
@@ -29,6 +29,16 @@ Screeenshot of "gear" items here:
 https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.5.jpg
 
 ## <b>Installation and use</b><br>
-This is a zip file containing a small Mobirise 4.x bootstrap project (created using the Mobirise 4 theme as the base project). To use the menu, download the zip file, unzip contents to a folder and import into Mobirise as a new project by selecting the "project.mobirise" file for the import process. You can then save the menu from the imported project as a Mobirise "user block" and move between Mobirise bootstrap 4 projects (AMP not supported). 
+From v2.6 onwards a Mobirise extension 9mbrext) file is provided. To install the extension in the Mobirise Builder follow these steps:
+- Select the "Extensions" option from the left hand main menu
+- Select "import"
+- Browse to the downloaded MobiGaryExtension .mrext file and select "IMPORT ANYWAY" at the unknown source warning
+- Once the extension is installed it will show in the catalogue of installed extensions
+- To use blocks within the extension locate the "MobiGary" category on the Block-Add screen. Currently this extension contains only one block, the MobiGary Menu. Drag the block onto a project to use.
+Note: This extension is for Mobirise bootstrap 4 projects (AMP not supported). 
 
-Once the block configuaration is accessed via the "gear" (cog) icon, all the configuration options are avaiable (see screenshot in link above).
+Once the block configuration is accessed via the "gear" (cog) icon, all the configuration options are avaiable (see screenshot in link above).
+
+Earlier Versions: Prior to v2.6, a zip file containing a small Mobirise 4.x bootstrap project (created using the Mobirise 4 theme as the base project) was provided. To use the menu, users had to download the zip file, unzip contents to a folder and import into Mobirise as a new project by selecting the "project.mobirise" file for the import process. users could then save the menu from the imported project as a Mobirise "user block" and move between Mobirise bootstrap 4 projects (AMP not supported). 
+
+Once the block configuration is accessed via the "gear" (cog) icon, all the configuration options are avaiable (see screenshot in link above).
