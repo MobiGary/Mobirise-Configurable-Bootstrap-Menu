@@ -41,4 +41,3 @@ Once the block configuration is accessed via the "gear" (cog) icon, all the conf
 
 Earlier Versions: Prior to v2.6, a zip file containing a small Mobirise 4.x bootstrap project (created using the Mobirise 4 theme as the base project) was provided. To use the menu, users had to download the zip file, unzip contents to a folder and import into Mobirise as a new project by selecting the "project.mobirise" file for the import process. users could then save the menu from the imported project as a Mobirise "user block" and move between Mobirise bootstrap 4 projects (AMP not supported). 
 
-Once the block configuration is accessed via the "gear" (cog) icon, all the configuration options are avaiable (see screenshot in link above).
