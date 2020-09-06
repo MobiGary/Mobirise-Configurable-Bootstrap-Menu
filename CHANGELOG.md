@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ## Version 2.6 - MobiGaryMenu-v2.6.mbrext (2020-SEPTEMBER-06)
 - Changed the format of the file from a zip file (containing and exported Mobirise project with the MobiGary Menu block) to a Mobirise extension (mbrext) file.
 - Modified the Gear Icon Settings to separate out box shadow options for MainMenu (MM) and Sub Menu (SM). Previously they were combined. This now allows box shadow settings to be configured as on/off for MM and SM individually. This change was made as result of an enhancement request on the Mobirise forum.
+- Moved the location of MM Transparrent on/off setting and MM Opacity slider setting next to each other. Made more sense to have them both together.
 
 ## Version 2.5 - MobiGaryMenu-v2.5.zip (2020-AUGUST-20)
 - CSS changes to due to changes in new inherited CSS in Mobirise v5 that caused some minor issues. This new version behaves better in terms of Menu Logo dimensions and Menu Brand Name alignment in both Mobirise 4 and Mobirise 5 builder.
