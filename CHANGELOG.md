@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 2.7 - MobiGaryMenu-v2.7.mbrext (2020-SEPTEMBER-21)
+- Added an additional gear icon control for the maximum width of the Main Menu "MM Max Widtx px". This new slider alows px settings ranging from 1200px to 1800px to provide users greater control over the maximum width of the main menu.
+
 ## Version 2.6 - MobiGaryMenu-v2.6.mbrext (2020-SEPTEMBER-06)
 - Changed the format of the file from a zip file (containing and exported Mobirise project with the MobiGary Menu block) to a Mobirise extension (mbrext) file.
 - Modified the Gear Icon Settings to separate out box shadow options for MainMenu (MM) and Sub Menu (SM). Previously they were combined. This now allows box shadow settings to be configured as on/off for MM and SM individually. This change was made as result of an enhancement request on the Mobirise forum.
