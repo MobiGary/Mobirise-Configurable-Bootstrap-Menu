@@ -5,6 +5,8 @@ All notable changes to this project will be documented in this file.
 ## Version 2.7 - MobiGaryMenu-v2.7.mbrext (2020-SEPTEMBER-21)
 - Added an additional gear icon control for the maximum width of the Main Menu "MM Max Widtx px". This new slider alows px settings ranging from 1200px to 1800px to provide users greater control over the maximum width of the main menu.
 
+Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.7.jpg
+
 ## Version 2.6 - MobiGaryMenu-v2.6.mbrext (2020-SEPTEMBER-06)
 - Changed the format of the file from a zip file (containing and exported Mobirise project with the MobiGary Menu block) to a Mobirise extension (mbrext) file.
 - Modified the Gear Icon Settings to separate out box shadow options for MainMenu (MM) and Sub Menu (SM). Previously they were combined. This now allows box shadow settings to be configured as on/off for MM and SM individually. This change was made as result of an enhancement request on the Mobirise forum.
@@ -12,8 +14,6 @@ All notable changes to this project will be documented in this file.
 
 ## Version 2.5 - MobiGaryMenu-v2.5.zip (2020-AUGUST-20)
 - CSS changes to due to changes in new inherited CSS in Mobirise v5 that caused some minor issues. This new version behaves better in terms of Menu Logo dimensions and Menu Brand Name alignment in both Mobirise 4 and Mobirise 5 builder.
-
-Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.5.jpg
 
 ## Version 2.4 - MobiGaryMenu-v2.4.zip (2020-AUGUST-15)
 - Modified the Gear Icon for setting "Icon Area Width" and "Buttons Area Width" to have a PX setting slider rather than a slider based on a CSS formula.
