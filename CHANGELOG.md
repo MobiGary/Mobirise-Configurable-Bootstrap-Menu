@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## Version 2.7 - MobiGaryMenu-v2.7.mbrext (2020-SEPTEMBER-21)
-- Added an additional gear icon control for the maximum width of the Main Menu "MM Max Widtx px". This new slider alows px settings ranging from 1200px to 1800px to provide users greater control over the maximum width of the main menu.
+- Added an additional gear icon control for the maximum width of the Main Menu "MM Max Width px". This new slider alows px settings ranging from 1200px to 1800px to provide users greater control over the maximum width of the main menu.
 
 Screeenshot of "gear" items here: https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/MobiGaryMenuCog-v2.7.jpg
 
