@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 2.7b - MobiGaryMenu-v2.7b.mbrext (2020-SEPTEMBER-23)
+- Minor change to menu logo file location following Mobirise release of new builder v5.1.9 (which fixes an issue regarding image file locations they introdeced in 5.1.8). The original MobiGary Menu v2.7 released 21/09/20 referenced the logo file from the web as a temporary measure until Mobirise fixed the issue with the builder.
+
 ## Version 2.7 - MobiGaryMenu-v2.7.mbrext (2020-SEPTEMBER-21)
 - Added an additional gear icon control for the maximum width of the Main Menu "MM Max Width px". This new slider alows px settings ranging from 1200px to 1800px to provide users greater control over the maximum width of the main menu.
 
