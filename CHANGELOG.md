@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 2.8 - MobiGaryMenu-v2.8.mbrext (2020-SEPTEMBER-25)
+- Change to the logo margin & padding settings to better control the logo placement when "MM Logo Size" & "MM Logo Size Scroll Sticky" are both set to the same size. 
+
 ## Version 2.7b - MobiGaryMenu-v2.7b.mbrext (2020-SEPTEMBER-23)
 - Minor change to menu logo file location following Mobirise release of new builder v5.1.9 (which fixes an issue regarding image file locations they introdeced in 5.1.8). The original MobiGary Menu v2.7 released 21/09/20 referenced the logo file from the web as a temporary measure until Mobirise fixed the issue with the builder.
 
