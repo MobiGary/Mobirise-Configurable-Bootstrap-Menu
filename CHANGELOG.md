@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## Version 2.9 - MobiGaryMenu-v2.9.mbrext (2020-OCTOBER-02)
-- Added an additional gear icon control "MM Logo Top/Btm Padding px" to alow granular configuration of the menu logo top and bottom padding. Values between 1px and 10px permitted on the gear icon slider.
+- Added an additional gear icon control "MM Logo Top/Btm Padding px" to allow granular configuration of the menu logo top and bottom padding. Values between 1px and 10px permitted on the gear icon slider.
 
 ## Version 2.8 - MobiGaryMenu-v2.8.mbrext (2020-SEPTEMBER-25)
 - Change to the logo margin & padding settings to better control the logo placement when "MM Logo Size" & "MM Logo Size Scroll Sticky" are both set to the same size. 
