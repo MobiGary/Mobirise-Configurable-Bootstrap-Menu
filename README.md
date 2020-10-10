@@ -8,7 +8,7 @@ https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/CHA
 This extension works with Mobirise themes based on Bootstrap 4 (AMP not supported). It might work on other versions, but no guarantees.
 
 ## <b>Who can use</b><br>
-Feel free to give it a try if you are a Mobirise Bootstrap 4 user.
+Feel free to give it a try if you are a Mobirise Bootstrap 4 user either using Mobirise v4 or Mobirise v5 Builder.
 
 ## <b>Need to contact MobiGary?</b><br>
 Simply drop an email to mobigary.contact@gmail.com
