@@ -10,6 +10,9 @@ This extension works with Mobirise themes based on Bootstrap 4 (AMP not supporte
 ## <b>Who can use</b><br>
 Feel free to give it a try if you are a Mobirise Bootstrap 4 user.
 
+## <b>Need to contact MobiGary?</b><br>
+Simply drop an email to mobigary.contact@gmail.com
+
 ## <b>Notes</b><br>
 A Mobirise Bootstrap menu with many configuration settings available from the "gear" configuration icon. It includes:
 - Individual colour and opacity settings for Main, Sub and Hamburger menu background.
