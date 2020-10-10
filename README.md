@@ -11,7 +11,7 @@ This extension works with Mobirise themes based on Bootstrap 4 (AMP not supporte
 Feel free to give it a try if you are a Mobirise Bootstrap 4 user either using Mobirise v4 or Mobirise v5 Builder.
 
 ## <b>Need to contact MobiGary?</b><br>
-Simply drop an email to mobigary.contact@gmail.com
+Simply drop an email to mobigary.contact@gmail.com.
 
 ## <b>Notes</b><br>
 A Mobirise Bootstrap menu with many configuration settings available from the "gear" configuration icon. It includes:
