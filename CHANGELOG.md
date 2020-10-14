@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## Version 3.0 - MobiGaryMenu-v3.0.mbrext (2020-OCTOBER-14)
 - Added an additional gear icon section at top "Global Menu Config". In this section added two new controls "Menu Top Line Font Weight" & "Menu Font Weight". These 2 new settings allow font weights from 100 to 900 matching the css font-weight property. This allows more granular control of the font weight for the menu top line text, menu text, brand name text. Note however, the actual available choices on the 100 to 900 scale are based on the font used as not all fonts have all variants available.
-- Various CSS changes to enhance alignment and padding when the menu used with the following Mobirise Themes:   Attorney M4, Agency M4, Conference M4, Modern M4 & Studio M4 which have different inherited CSS than the other M4 themes. 
+- Various CSS changes to enhance alignment and padding when the menu used with the following Mobirise Themes:
+Attorney M4, Agency M4, Conference M4, Modern M4 & Studio M4 which have different inherited CSS than the other M4 themes. 
 
 ## Version 2.9 - MobiGaryMenu-v2.9.mbrext (2020-OCTOBER-02)
 - Added an additional gear icon control "MM Logo Top/Btm Padding px" to allow granular configuration of the menu logo top and bottom padding. Values between 1px and 10px permitted on the gear icon slider.
