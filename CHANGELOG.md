@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Version 3.1 - MobiGaryMenu-v3.0.mbrext (2020-OCTOBER-14)
+## Version 3.1 - MobiGaryMenu-v3.0.mbrext (2020-OCTOBER-18)
 - Added an additional gear icon option to allow the logo image (if enabled) to be rotated and have a border style and thickness.
 - Added an additional gear icon option to allow the button(s) (if enabled) to move when hovered over.
 - Modified CSS to change vertical alignment of icons (if displayed) to better suit the Mobirise 5 theme in addition to existing M4 themes.
