@@ -3,8 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## Version 3.2 - MobiGaryMenu-v3.0.mbrext (2020-OCTOBER-20)
-- NOTE: FILE REMOVED TEMPORARILY DUE TO ISSUE IN UPLOAD. BACK SOON. 
--After a forum user released the "Bootstrap SVG Icons" (1100+) as a Mobirise Extension I noticed alignment variations of icons when mixing icons from different icon packs when used in some Mobirise M4 themes. Therefore CSS has been adjusted to handle alignement of icons better (if enabled) for both M4 and the new M5 Mobirise themes in both M4 and M5 builders.
+- After a forum user released the "Bootstrap SVG Icons" (1100+) as a Mobirise Extension I noticed alignment variations of icons when mixing icons from different icon packs when used in some Mobirise M4 themes. Therefore CSS has been adjusted to handle alignement of icons better (if enabled) for both M4 and the new M5 Mobirise themes in both M4 and M5 builders.
 
 ## Version 3.1 - MobiGaryMenu-v3.0.mbrext (2020-OCTOBER-18)
 - Added an additional gear icon option to allow the logo image (if enabled) to be rotated and have a border style and thickness.
