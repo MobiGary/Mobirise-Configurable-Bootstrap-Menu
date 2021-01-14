@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## Version 3.3 - MobiGaryMenu-v3.3.mbrext (2021-JANUARY-14)
 - Added new gear icon "MM Minumum Height" option to allow setting of the minimum menu height. This now allows configurable minimum menu height from 40px to 150px on the gear icon.
-- Modidifed CSS code for TL Menu to allow a better bottom padding slider configuration. This helps when when letters with tails are used (eg.the letter g in the word "Message"). This was added after a forum user reported the issue. 
+- Modidifed CSS code for TL Menu to allow better bottom padding slider configuration. This helps when when letters with tails are used (eg.the letter g in the word "Message"). This was added after a forum user reported the issue. 
 
 ## Version 3.2 - MobiGaryMenu-v3.2.mbrext (2020-OCTOBER-20)
 - After a forum user released the "Bootstrap SVG Icons" (1100+) as a Mobirise Extension I noticed alignment variations of icons when mixing icons from different icon packs when used in some Mobirise M4 themes. Therefore CSS has been adjusted to handle alignement of icons better (if enabled) for both M4 and the new M5 Mobirise themes in both M4 and M5 builders.
