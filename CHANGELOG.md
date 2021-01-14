@@ -2,10 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
-## Version 3.2 - MobiGaryMenu-v3.0.mbrext (2020-OCTOBER-20)
+## Version 3.3 - MobiGaryMenu-v3.3.mbrext (2021-JANUARY-14)
+- Added new gear icon "MM Minumum Height" option to allow setting of the minimum menu height. THis now aloow configurable menu height down to 40px whereas before it was fixed at 68px in CSS code.
+
+## Version 3.2 - MobiGaryMenu-v3.2.mbrext (2020-OCTOBER-20)
 - After a forum user released the "Bootstrap SVG Icons" (1100+) as a Mobirise Extension I noticed alignment variations of icons when mixing icons from different icon packs when used in some Mobirise M4 themes. Therefore CSS has been adjusted to handle alignement of icons better (if enabled) for both M4 and the new M5 Mobirise themes in both M4 and M5 builders.
 
-## Version 3.1 - MobiGaryMenu-v3.0.mbrext (2020-OCTOBER-18)
+## Version 3.1 - MobiGaryMenu-v3.1.mbrext (2020-OCTOBER-18)
 - Added an additional gear icon option to allow the logo image (if enabled) to be rotated and have a border style and thickness.
 - Added an additional gear icon option to allow the button(s) (if enabled) to move when hovered over.
 - Modified CSS to change vertical alignment of icons (if displayed) to better suit the Mobirise 5 theme in addition to existing M4 themes.
