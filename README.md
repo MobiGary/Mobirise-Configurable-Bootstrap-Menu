@@ -3,7 +3,7 @@
 ## <b>Latest Version</b><br>
 <b><i> NOTE: Effective 16/04/21 this Githib repository has been retired and is being kep to historical changelog purposes only. The new Githuib repository can be found at https://github.com/MobiGary/MobiriseM4blocks</b></i>
   
-Latest Vwersion: v3.4 as detailed in the NEW changelog:
+Latest Version: v3.4 as detailed in the NEW changelog (new repository):
 https://github.com/MobiGary/MobiriseM4blocks/blob/main/CHANGELOG.md
 
 OLD Changelog for historical reference purposes:
