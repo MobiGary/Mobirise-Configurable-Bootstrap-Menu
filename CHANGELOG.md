@@ -1,5 +1,5 @@
 # OLD Changelog for historical purposes ONLY. 
-<b>Latest version has moved to https://github.com/MobiGary/MobiriseM4blocks/blob/main/CHANGELOG.md</b>
+<b><i>NOTE: Latest version has moved to https://github.com/MobiGary/MobiriseM4blocks/blob/main/CHANGELOG.md</i></b>
 
 
 All notable changes to this project will be documented in this file.
