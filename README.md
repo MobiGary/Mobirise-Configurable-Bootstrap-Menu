@@ -1,10 +1,13 @@
 # Mobirise-Configurable-Bootstrap-Menu
 
 ## <b>Latest Version</b><br>
-v3.3 as detailed in the changelog:
-https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/CHANGELOG.md
-
 <b> NOTE: Effective 16/04/21 this Githib repository has been retired and is being kep to historical changelog purposes only. The new Githuib repository can be found at https://github.com/MobiGary/MobiriseM4blocks>/b>
+  
+v3.4 as detailed in the NEW changelog:
+https://github.com/MobiGary/MobiriseM4blocks/blob/main/CHANGELOG.md
+
+OLD Changelog fr historical reference purposes:
+https://github.com/MobiGary/Mobirise-Configurable-Bootstrap-Menu/blob/master/CHANGELOG.md
 
 ## <b>Compatibility</b><br>
 This extension works with Mobirise themes based on Bootstrap 4 (AMP not supported). It might work on other versions, but no guarantees.
