@@ -2,7 +2,7 @@
 <b><i>NOTE: Latest version of the changelog has moved to https://github.com/MobiGary/MobiriseM4blocks/blob/main/CHANGELOG.md andf the new project repisotory is here https://github.com/MobiGary/MobiriseM4blocks</i></b>
 
 
-All OLD notable changes to this project will are documented below.
+All <b>OLD</b> notable changes to this project will are documented below.
 
 ## Version 3.3 - MobiGaryMenu-v3.3.mbrext (2021-JANUARY-14)
 - Added new gear icon "MM Minumum Height" option to allow setting of the minimum menu height. This now allows configurable minimum menu height from 40px to 150px on the gear icon.
